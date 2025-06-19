@@ -1,5 +1,5 @@
 ## GWU_PRAXIS 
-### A Holistic Approach to Enable Dynamic Policy Management for Zero Trust Architecture
+## A Holistic Approach to Enable Dynamic Policy Management for Zero Trust Architecture
 
 ## Python 3 Notebooks:
 
