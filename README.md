@@ -1,18 +1,30 @@
-# GWU_PRAXIS
-# Python 3 Notebooks:
+## GWU_PRAXIS 
+### A Holistic Approach to Enable Dynamic Policy Management for Zero Trust Architecture
 
-# Clustering Models
-1. Clustering Using Manual Defined Labels
-2. K-Means Clustering Model
-3. Density-Based Spatial Clustering of Applications with Noise (DBSCAN) Clustering Model
-4. Ordering Points to  Identify Cluster Structure (OPTICS) Clustering Model
-5. Gaussian Mixture Models (GMM) Clustering Model
-6. Self-Organizing Map (SOM) / Self-Organizing Feature Map (SOFM) Clustering Model
+## Python 3 Notebooks:
+
+### Base Clustering Models
+1. K-Means Clustering Model with Labeled Data
+2. Hierarchical Density-Based Spatial Clustering of Applications with Noise (HDBSCAN) Clustering Model
+3. Ordering Points to  Identify Cluster Structure (OPTICS) Clustering Model
+4. Gaussian Mixture Models (GMM) Clustering Model
+5. Self-Organizing Feature Map (SOFM) Clustering Model
    
-# New User Detection and Classification Models
-1. Feedforward Neural Network (FNN) / Multi-Layer Percepteron (MLP)
-2. Recurrent Neual Networks (RNN) with Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU)
-3. Autoencoders
+### New User Detection and Classification Models
+1. Agglomerative Hierarchical Clustering (AHC)
+2. Feedforward Neural Network (FNN) / Multi-Layer Percepteron (MLP)
 4. Graph Neural Networks (GNN)
-5. Hybrid: Autoencoder + LSTM
-6. Hybrid: GNN + LSTM
+
+## Policy Files:
+1. OPA Policy Files
+2. Zscaler Policy Files
+3. PlainID Policy Files
+4. JSON Policy Files
+
+## Data Files
+
+
+
+## Results Files
+
+
