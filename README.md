@@ -1,7 +1,7 @@
 ## GWU_PRAXIS 
 ## A Holistic Approach to Enable Dynamic Policy Management for Zero Trust Architecture
 
-## Python 3 Notebooks:
+## Google Colab Python 3 Notebooks:
 
 ### Base Clustering Models
 1. K-Means Clustering Model with Labeled Data
