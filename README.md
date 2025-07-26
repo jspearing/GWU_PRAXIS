@@ -16,6 +16,9 @@
 2. Feedforward Neural Network (FNN) / Multi-Layer Percepteron (MLP)
 4. Graph Neural Networks (GNN)
 
+## UNSW-NB15 IDS test
+1. AHC Base Clustering Model, FNN/MLP with labeled 'attack' connections
+
 ## Policy Files:
 1. OPA Policy Files
 2. Zscaler Policy Files
